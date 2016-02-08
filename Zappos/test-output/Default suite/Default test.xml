@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Shuvashish" name="zappos.AddToCartTestSuite" tests="1" failures="0" timestamp="7 Feb 2016 17:34:26 GMT" time="19.054" errors="0">
+  <testcase name="justTest" time="18.359" classname="zappos.AddToCartTestSuite"/>
+</testsuite>
